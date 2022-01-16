@@ -1,0 +1,7 @@
+
+=
+java:S1125"'Remove the unnecessary boolean literal.(ÈÀñš
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³§ˆ“
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ú·›ˆøÿÿÿÿ8™ØøíÒ/
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ÈÀñš8¡ƒşíÒ/

@@ -1,0 +1,13 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "a".(õ‡žÐ
+<
+java:S1481"&Remove this unused "a" local variable.(õ‡žÐ
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8 ‰…Õá/
+i
+java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(±Þú†ýÿÿÿÿ
+p
+java:S1104"NMake n2 a static final constant or non-public and provide accessors if needed.(á¢ÓÐÿÿÿÿÿ8©ûÔá/
+C
+java:S1444"(Make this "public static n1" field final(±Þú†ýÿÿÿÿ

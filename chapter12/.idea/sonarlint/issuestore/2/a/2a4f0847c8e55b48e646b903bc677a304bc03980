@@ -1,0 +1,11 @@
+
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ˆÒÙŽüÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "res".(ÕÐˆÐ
+>
+java:S1481"(Remove this unused "res" local variable.(ÕÐˆÐ
+Q	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñò‘¡
+N
+java:S3518"8Make sure "n2" can't be zero before doing this division.(ÕÐˆÐ

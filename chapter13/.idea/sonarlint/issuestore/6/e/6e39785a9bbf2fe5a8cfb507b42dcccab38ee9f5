@@ -1,0 +1,8 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "instant".(·©…ö
+B
+java:S1481",Remove this unused "instant" local variable.(·©…ö
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îýØ¶ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÞç½øÿÿÿÿ

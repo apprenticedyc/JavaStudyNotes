@@ -1,0 +1,11 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "inner04".(ÆŽ®Ð
+B
+java:S1481",Remove this unused "inner04" local variable.(ÆŽ®Ð
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÞÎ´Ëûÿÿÿÿ8³¦ŒÌã/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(­ò‡Ïøÿÿÿÿ8Ã¦ŒÌã/
+[
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(äÊË¨

@@ -1,0 +1,12 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "a_".(©çëüıÿÿÿÿ8¯ºÏÕá/
+I
+java:S1481"'Remove this unused "a_" local variable.(©çëüıÿÿÿÿ8¿ºÏÕá/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8şºÊÕá/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ç’ÍÕá/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©çëüıÿÿÿÿ8ïºÏÕá/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³·•ş
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶¿©Øıÿÿÿÿ8èœÃÕá/

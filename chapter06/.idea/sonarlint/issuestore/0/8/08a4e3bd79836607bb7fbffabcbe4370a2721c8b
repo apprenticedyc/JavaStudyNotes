@@ -1,0 +1,11 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "max".(”£”ï
+D
+java:S1659""Declare "temp" on a separate line.(ÑÊÈÿÿÿÿÿ8õñé¸Õ/
+>
+java:S1481"(Remove this unused "max" local variable.(”£”ï
+@
+java:S1481"*Remove this unused "index" local variable.(ìüà·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»±âŞüÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ8‚òé¸Õ/

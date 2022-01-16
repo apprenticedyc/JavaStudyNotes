@@ -1,0 +1,9 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "bbbb".(ÛèöÜûÿÿÿÿ8ÕàÚìá/
+K
+java:S1481")Remove this unused "bbbb" local variable.(ÛèöÜûÿÿÿÿ8ïàÚìá/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ÜªİÖá/
+{
+java:S1171*"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ØşŞÖá/

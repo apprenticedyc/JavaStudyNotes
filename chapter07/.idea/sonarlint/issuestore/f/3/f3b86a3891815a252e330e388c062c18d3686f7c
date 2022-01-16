@@ -1,0 +1,21 @@
+
+`
+java:S1854#">Remove this useless assignment to local variable "tomGussNum".(Î–”şøÿÿÿÿ8çŠçœÙ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰™Ó¶øÿÿÿÿ8éºåœÙ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Şşÿÿÿÿ8øŠçœÙ/
+Q
+java:S1481#"/Remove this unused "tomGussNum" local variable.(Î–”şøÿÿÿÿ8úŠçœÙ/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(²İ¨¦8üŠçœÙ/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÍÂ›8şŠçœÙ/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ŒÃİ8ÿŠçœÙ/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(²İ¨¦8€‹çœÙ/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8…‹çœÙ/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¶ıúõşÿÿÿÿ8•‹çœÙ/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Êææ8¥‹çœÙ/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Í¶Éúÿÿÿÿ8µ‹çœÙ/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(½îÚ€ùÿÿÿÿ8¶‹çœÙ/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(Æ‚È¡8·‹çœÙ/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(¶ıúõşÿÿÿÿ8¸‹çœÙ/
+@
+java:S2119c"Save and re-use this "Random".(ö¾œîùÿÿÿÿ8ÆåõœÙ/
+]	java:S125c"<This block of commented-out lines of code should be removed.(ö¾œîùÿÿÿÿ8ÌåõœÙ/

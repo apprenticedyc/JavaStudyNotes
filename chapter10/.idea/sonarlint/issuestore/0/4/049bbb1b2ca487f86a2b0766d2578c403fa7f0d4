@@ -1,0 +1,13 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "inner04".(ÆÛÃ¢ıÿÿÿÿ
+Q
+java:S1854	";Remove this useless assignment to local variable "inner03".(È•Íä
+B
+java:S1481	",Remove this unused "inner03" local variable.(È•Íä
+N
+java:S1481",Remove this unused "inner04" local variable.(ÆÛÃ¢ıÿÿÿÿ8Æ¼‹Ëã/
+A
+java:S1068"&Remove this unused "n1" private field.(àûú’üÿÿÿÿ
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(¹Øœßşÿÿÿÿ
